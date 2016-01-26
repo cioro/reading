@@ -1,1 +1,6 @@
 # Reading list 
+* Reading List                                                          :TOC:
+** Memory
+[[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]]
+** Concurrency
+[[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][Programming with POSIX Threads]]

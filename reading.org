@@ -1,11 +1,11 @@
 # Reading list 
 * Reading List                                                          :TOC:
-** Memory
-[[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]]
-[[https://webcache.googleusercontent.com/search?q=cache:j1pz754cS0kJ:https://fgiesen.wordpress.com/2014/07/07/cache-coherency/+&cd=1&hl=en&ct=clnk&gl=uk][Cache coherency primer]]
+** Memory 
+ [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]] 
+ [[https://webcache.googleusercontent.com/search?q=cache:j1pz754cS0kJ:https://fgiesen.wordpress.com/2014/07/07/cache-coherency/+&cd=1&hl=en&ct=clnk&gl=uk][Cache coherency primer]]
 ** Concurrency
-[[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][Programming with POSIX Threads]]
-[[http://www.gotw.ca/publications/concurrency-ddj.htm][The Free Lunch Is Over]]
+ [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][Programming with POSIX Threads]]
+ [[http://www.gotw.ca/publications/concurrency-ddj.htm][The Free Lunch Is Over]]
 ** Videos
-[[https://www.youtube.com/watch?v=aIHAEYyoTUc][Efficient Programming with Components: Introduction Part1]]
-[[https://www.youtube.com/watch?v=DOoO7_yvjQE][Efficient Programming with Components: Introduction Part2]]
+ [[https://www.youtube.com/watch?v=aIHAEYyoTUc][Efficient Programming with Components: Introduction Part1]]
+ [[https://www.youtube.com/watch?v=DOoO7_yvjQE][Efficient Programming with Components: Introduction Part2]]

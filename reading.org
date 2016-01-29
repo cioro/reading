@@ -9,3 +9,8 @@
 ** Videos
  [[https://www.youtube.com/watch?v=aIHAEYyoTUc][Efficient Programming with Components: Introduction Part1]]
  [[https://www.youtube.com/watch?v=DOoO7_yvjQE][Efficient Programming with Components: Introduction Part2]]
+** Scalability
+   [[http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html][Scalability! But at what COST?]]
+   [[http://www.frankmcsherry.org/assets/COST.pdf][Scalability! But at what COST? Paper]]
+   [[http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf][A Note on Distributed Computing]]
+   [[http://highscalability.com/eve-online-architecture][Eve Online Architecture]]

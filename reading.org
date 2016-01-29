@@ -17,4 +17,3 @@
   - [[http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf][Scalable Commutativity]]
   - [[
 ][Practical Insights From Queueing Theory]]
-

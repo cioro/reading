@@ -15,5 +15,5 @@
   - [[http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf][A Note on Distributed Computing]]
   - [[http://highscalability.com/eve-online-architecture][Eve Online Architecture]]
   - [[http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf][Scalable Commutativity]]
-  - [[
+  - [[https://rwwescott.wordpress.com/2014/04/10/practical-insights-from-queueing-theory/
 ][Practical Insights From Queueing Theory]]

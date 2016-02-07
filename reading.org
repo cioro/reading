@@ -1,7 +1,7 @@
-# Reading list 
+# Reading list
 * Reading List                                                          :TOC:
-** Memory 
-  - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]] 
+** Memory
+  - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]]
   - [[https://webcache.googleusercontent.com/search?q=cache:j1pz754cS0kJ:https://fgiesen.wordpress.com/2014/07/07/cache-coherency/+&cd=1&hl=en&ct=clnk&gl=uk][Cache coherency primer]]
 ** Concurrency
   - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][Programming with POSIX Threads]]
@@ -10,12 +10,17 @@
   - [[https://www.youtube.com/watch?v=aIHAEYyoTUc][Efficient Programming with Components: Introduction Part1]]
   - [[https://www.youtube.com/watch?v=DOoO7_yvjQE][Efficient Programming with Components: Introduction Part2]]
 ** Scalability
-  - [[http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html][Scalability! But at what COST?]]
-  - [[http://www.frankmcsherry.org/assets/COST.pdf][Scalability! But at what COST? Paper]]
-  - [[http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf][A Note on Distributed Computing]]
-  - [[http://highscalability.com/eve-online-architecture][Eve Online Architecture]]
-  - [[http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf][Scalable Commutativity]]
-  - [[https://rwwescott.wordpress.com/2014/04/10/practical-insights-from-queueing-theory/
+  - [ ] [[http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html][Scalability! But at what COST?]]
+  - [ ] [[Scalability! But at what COST? Paper]]
+  - [ ] [[http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf][A Note on Distributed Computing]]
+  - [ ] [[http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf][Scalable Commutativity]]
+  - [ ] [[https://rwwescott.wordpress.com/2014/04/10/practical-insights-from-queueing-theory/
 ][Practical Insights From Queueing Theory]]
+  - [ ] [[http://www.infoq.com/presentations/service-arch-scale-google-ebay][Service Architecture at Scale: Lessons from Google and eBay]]
+  - [ ] [[http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html][Deep Lessons From Google and Ebay On Building Ecosystems of Microservices]]
+  - [X] [[http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html][Google on Latency Tolerant Systems:Making a predictable whole out of unpredictable parts]]
+  - [ ] [[http://highscalability.com/blog/2009/11/17/10-ebay-secrets-for-planet-wide-scaling.html][10 eBay secrets for planet wide scaling]]
+  - [ ] [[http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html][Microservices - Not a free lunch!
+]]
 ** Workflow
-   [[ http://doc.norang.ca/org-mode.html][OrgMode]]
+  - [[ http://doc.norang.ca/org-mode.html][OrgMode]]

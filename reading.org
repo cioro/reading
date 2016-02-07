@@ -14,8 +14,7 @@
   - [ ] [[Scalability! But at what COST? Paper]]
   - [ ] [[http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf][A Note on Distributed Computing]]
   - [ ] [[http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf][Scalable Commutativity]]
-  - [ ] [[https://rwwescott.wordpress.com/2014/04/10/practical-insights-from-queueing-theory/
-][Practical Insights From Queueing Theory]]
+  - [ ] [[https://rwwescott.wordpress.com/2014/04/10/practical-insights-from-queueing-theory/][Practical Insights From Queueing Theory]]
   - [ ] [[http://www.infoq.com/presentations/service-arch-scale-google-ebay][Service Architecture at Scale: Lessons from Google and eBay]]
   - [ ] [[http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html][Deep Lessons From Google and Ebay On Building Ecosystems of Microservices]]
   - [X] [[http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html][Google on Latency Tolerant Systems:Making a predictable whole out of unpredictable parts]]

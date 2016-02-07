@@ -20,7 +20,6 @@
   - [ ] [[http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html][Deep Lessons From Google and Ebay On Building Ecosystems of Microservices]]
   - [X] [[http://highscalability.com/blog/2012/6/18/google-on-latency-tolerant-systems-making-a-predictable-whol.html][Google on Latency Tolerant Systems:Making a predictable whole out of unpredictable parts]]
   - [ ] [[http://highscalability.com/blog/2009/11/17/10-ebay-secrets-for-planet-wide-scaling.html][10 eBay secrets for planet wide scaling]]
-  - [ ] [[http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html][Microservices - Not a free lunch!
-]]
+  - [ ] [[http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html][Microservices - Not a free lunch!]]
 ** Workflow
   - [[ http://doc.norang.ca/org-mode.html][OrgMode]]

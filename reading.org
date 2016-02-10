@@ -1,14 +1,14 @@
 # Reading list
 * Reading List                                                          :TOC:
 ** Memory
-  - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]]
-  - [[https://webcache.googleusercontent.com/search?q=cache:j1pz754cS0kJ:https://fgiesen.wordpress.com/2014/07/07/cache-coherency/+&cd=1&hl=en&ct=clnk&gl=uk][Cache coherency primer]]
+  - [ ]  [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What every programmer should know about memory]]
+  - [ ]  [[https://webcache.googleusercontent.com/search?q=cache:j1pz754cS0kJ:https://fgiesen.wordpress.com/2014/07/07/cache-coherency/+&cd=1&hl=en&ct=clnk&gl=uk][Cache coherency primer]]
 ** Concurrency
-  - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][Programming with POSIX Threads]]
-  - [[http://www.gotw.ca/publications/concurrency-ddj.htm][The Free Lunch Is Over]]
+  - [ ]  [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][Programming with POSIX Threads]]
+  - [ ]  [[http://www.gotw.ca/publications/concurrency-ddj.htm][The Free Lunch Is Over]]
 ** Videos
-  - [[https://www.youtube.com/watch?v=aIHAEYyoTUc][Efficient Programming with Components: Introduction Part1]]
-  - [[https://www.youtube.com/watch?v=DOoO7_yvjQE][Efficient Programming with Components: Introduction Part2]]
+  - [ ]  [[https://www.youtube.com/watch?v=aIHAEYyoTUc][Efficient Programming with Components: Introduction Part1]]
+  - [ ]  [[https://www.youtube.com/watch?v=DOoO7_yvjQE][Efficient Programming with Components: Introduction Part2]]
 ** Scalability
   - [ ] [[http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html][Scalability! But at what COST?]]
   - [ ] [[Scalability! But at what COST? Paper]]
@@ -21,4 +21,10 @@
   - [ ] [[http://highscalability.com/blog/2009/11/17/10-ebay-secrets-for-planet-wide-scaling.html][10 eBay secrets for planet wide scaling]]
   - [ ] [[http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html][Microservices - Not a free lunch!]]
 ** Workflow
-  - [[ http://doc.norang.ca/org-mode.html][OrgMode]]
+  - [ ]  [[ http://doc.norang.ca/org-mode.html][OrgMode]]
+** Testing
+  - [ ] [[http://www.petrikainulainen.net/writing-clean-tests/][Writting clean test]]
+** Android
+  - [ ] [[http://developer.android.com/tools/data-binding/guide.html][Data Binding guide]]
+  - [ ] [[http://developer.android.com/guide/components/fragments.html][Fragments]]
+

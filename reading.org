@@ -24,7 +24,10 @@
   - [ ]  [[ http://doc.norang.ca/org-mode.html][OrgMode]]
 ** Testing
   - [ ] [[http://www.petrikainulainen.net/writing-clean-tests/][Writting clean test]]
+  - [ ] [[http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/][Dependency Injection]]
 ** Android
   - [ ] [[http://developer.android.com/tools/data-binding/guide.html][Data Binding guide]]
   - [ ] [[http://developer.android.com/guide/components/fragments.html][Fragments]]
 
+** C++
+  - [ ] [[http://stackoverflow.com/questions/276173/what-are-your-favorite-c-coding-style-idioms/2034447#2034447][C++ Idioms]] 

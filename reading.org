@@ -28,7 +28,8 @@
 ** Android
   - [ ] [[http://developer.android.com/tools/data-binding/guide.html][Data Binding guide]]
   - [ ] [[http://developer.android.com/guide/components/fragments.html][Fragments]]
-
+  - [ ] [[http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/][Architecting Android the clean way]]
+  - [ ] [[http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/][Architecting Android the evolution]] 
 ** C++
   - [ ] [[http://stackoverflow.com/questions/276173/what-are-your-favorite-c-coding-style-idioms/2034447#2034447][C++ Idioms]] 
   - [ ] [[http://stackoverflow.com/questions/3106110/what-are-move-semantics/11540204#11540204][Move Semantics]]
